@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **tkomasa/tkomasa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Links:
+Email: [tskomasa@gmail.com](mailto:tskomasa@gmail.com)  
+Discord: Turtle-12#0001  
+Alt GitHub Account: [Turtle-12-Repo](https://github.com/Turtle-12-Repo)  
+Languages: Python, HTML, CSS, JavaScript, Shell  
