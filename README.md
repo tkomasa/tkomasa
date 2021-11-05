@@ -13,8 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Links:
+### Links:
 Email: [tskomasa@gmail.com](mailto:tskomasa@gmail.com)  
 Discord: Turtle-12#0001  
 Alt GitHub Account: [Turtle-12-Repo](https://github.com/Turtle-12-Repo)  
-Languages: Python, HTML, CSS, JavaScript, Shell  
+
+#### Feel free to contact me for dev-related things. You can also just use GitHub's communication suite.
