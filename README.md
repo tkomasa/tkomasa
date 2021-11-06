@@ -20,6 +20,7 @@ Alt GitHub Account: [Turtle-12-Repo](https://github.com/Turtle-12-Repo)
 
 #### Feel free to contact me for dev-related things. You can also just use GitHub's communication suite.
 
-![Tucker's GitHub stats](https://github-readme-stats.vercel.app/api?username=tkomasa&show_icons=true&theme=dracula&count_private=true)
+![Tucker's GitHub stats](https://github-readme-stats.vercel.app/api?username=tkomasa&show_icons=true&theme=dracula&count_private=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tkomasa&theme=dracula&count_private=true&langs_count=10)
 
 
