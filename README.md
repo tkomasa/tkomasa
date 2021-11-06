@@ -1,18 +1,3 @@
-<!--
-**tkomasa/tkomasa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ### Links:
 Email: [tskomasa@gmail.com](mailto:tskomasa@gmail.com)  
 Discord: Turtle-12#0001  
@@ -20,7 +5,7 @@ Alt GitHub Account: [Turtle-12-Repo](https://github.com/Turtle-12-Repo)
 
 #### Feel free to contact me for dev-related things. You can also just use GitHub's communication suite.
 
-![Tucker's GitHub stats](https://github-readme-stats.vercel.app/api?username=tkomasa&show_icons=true&theme=dracula&count_private=true&line_height=33)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tkomasa&theme=dracula&count_private=true)
+![Tucker's GitHub stats](https://github-readme-stats.vercel.app/api?username=tkomasa&show_icons=true&theme=dracula&count_private=true&line_height=33&hide_border=true&bg_color=ffffff00)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tkomasa&theme=dracula&count_private=true&hide_border=true&bg_color=ffffff00)
 
 
